@@ -9,7 +9,7 @@ export const educationData = [
     {
         id: 2,
         institution: 'Mohanpur Govt. College',
-        course: 'Science',
+        course: 'Higher Secondary Certificate (HSC)',
         startYear: '2017',
         endYear: '2019'
     }
