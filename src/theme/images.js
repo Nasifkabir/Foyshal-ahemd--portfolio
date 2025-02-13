@@ -1,5 +1,5 @@
 import blueThemegirl from '../assets/svg/about/blueTheme-girl.svg'
-import blueThemeboy from '../assets/svg/about/blueTheme-boy.svg'
+import blueThemeboy from '../assets/svg/about/foyshal2.jpg'
 import bwThemeboy from '../assets/svg/about/bwTheme-boy.svg'
 import bwThemegirl from '../assets/svg/about/bwTheme-girl.svg'
 import greenThemeboy from '../assets/svg/about/greenTheme-boy.svg'
