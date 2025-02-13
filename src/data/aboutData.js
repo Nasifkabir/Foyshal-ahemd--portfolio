@@ -1,5 +1,5 @@
 export const aboutData = {
     title: "Who I am",
     description1: "Hello! My name is Foyshal Ahmed Biswas. I'm working as a Technical Support Enginner in Innovate Solution in Dhaka, Bangladesh.",
-    description2: "lorem ipsum"
+    description2: "I am a proud graduate in Computer Science and Engineering (BSc in CSE), where I actively participated in various academic programs, tech events, and extracurricular activities. These experiences helped me build a strong foundation in technology, teamwork, and problem-solving, which I now apply in my role as a Technical Support Engineer at Innovate Solutions. In my current position, I specialize in troubleshooting technical issues, optimizing system performance, and delivering exceptional customer support. I am passionate about leveraging technology to solve real-world challenges and contribute to innovative solutions. Alongside my professional journey, I have a deep passion for teaching and education. I believe in the power of knowledge-sharing and am actively preparing myself to transition into the teaching profession. Day by day, I am honing my skills, expanding my expertise, and working towards my goal of inspiring and empowering the next generation of tech enthusiasts."
 }

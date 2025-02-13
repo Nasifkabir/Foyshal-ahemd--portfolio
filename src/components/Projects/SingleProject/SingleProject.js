@@ -53,7 +53,7 @@ function SingleProject({ id, name, desc, tags, demo, image, theme }) {
                         <a
                             href={demo}
                             target='_blank'
-                            rel='noreferrer'
+                            rel="noreferrer"
                             className={classes.iconBtn}
                             aria-labelledby={`${name
                                 .replace(' ', '-')

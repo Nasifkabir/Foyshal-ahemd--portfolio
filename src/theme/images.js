@@ -1,5 +1,4 @@
-import blueThemegirl from '../assets/svg/about/blueTheme-girl.svg'
-import blueThemeboy from '../assets/svg/about/foyshal2.jpg'
+import blueThemegirl from '../assets/svg/about/foyshal2.jpg'
 import bwThemeboy from '../assets/svg/about/bwTheme-boy.svg'
 import bwThemegirl from '../assets/svg/about/bwTheme-girl.svg'
 import greenThemeboy from '../assets/svg/about/greenTheme-boy.svg'
@@ -44,7 +43,7 @@ import contactsYellow from '../assets/svg/contacts/contactsYellow.svg'
 
 
 export { 
-    blueThemegirl, blueThemeboy, bwThemeboy, bwThemegirl, greenThemeboy, greenThemegirl, orangeThemeboy, 
+    blueThemegirl, bwThemeboy, bwThemegirl, greenThemeboy, greenThemegirl, orangeThemeboy, 
     orangeThemegirl, pinkThemeboy, pinkThemegirl, purpleThemeboy, purpleThemegirl, redThemeboy, redThemegirl,
     yellowThemeboy,yellowThemegirl,eduBlue,eduBlack,eduGreen,eduOrange,eduPink,eduPurple,eduRed,eduYellow,
     expBlue,expBlack,expGreen,expOrange,expPink,expPurple,expRed,expYellow,contactsBlue,contactsBlack,
