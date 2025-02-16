@@ -3,6 +3,6 @@
 export const headerData = {
     name: 'Foyshal Ahmed Biswas',
     title: "Technical Support Engineer",
-    desciption:"Life may be a meandering path but don't worry about it, rather enjoy it. It is about the journey, not the destination so explore all that comes your way, learn and grow from it, for this journey only happens once.",
+    desciption:"Passionate about technology and education, I specialize in troubleshooting, system optimization, and customer support as a Technical Support Engineer at Innovate Solutions. With a background in Computer Science and Engineering, I actively engage in learning and knowledge-sharing, aspiring to inspire the next generation of tech enthusiasts.",
     image: '/foyshal.jpg',
 }
