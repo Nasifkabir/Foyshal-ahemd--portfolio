@@ -263,7 +263,7 @@ function Navbar() {
                                         className={classes.drawerIcon}
                                     />
                                     <span className={classes.drawerLinks}>
-                                        Projects
+                                        Thesis
                                     </span>
                                 </div>
                             </NavLink>
