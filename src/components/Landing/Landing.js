@@ -8,10 +8,7 @@ import { ThemeContext } from '../../contexts/ThemeContext';
 import { headerData } from '../../data/headerData';
 import { socialsData } from '../../data/socialsData';
 
-import {
-    FaFacebook,
-    FaLinkedin,
-} from 'react-icons/fa';
+import { FaFacebook, FaLinkedin } from 'react-icons/fa';
 
 function Landing() {
     const { theme, drawerOpen } = useContext(ThemeContext);
@@ -85,20 +82,17 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {socialsData.github && (
-                            <a
-                                href={socialsData.github}
-                                target='_blank'
-                                rel='noreferrer'
-                            >
-                            </a>
-                        )}
                         {socialsData.facebook && (
                             <a
                                 href={socialsData.facebook}
                                 target='_blank'
                                 rel='noreferrer'
                             >
+                                <FaFacebook
+                                    className='landing--social'
+                                    style={{ color: theme.secondary }}
+                                    aria-label='Facebook'
+                                />
                             </a>
                         )}
                     </div>
@@ -122,7 +116,7 @@ function Landing() {
                     >
                         <h6>{headerData.title}</h6>
                         <h1>{headerData.name}</h1>
-                        <p>{headerData.desciption}</p>
+                        <p>{headerData.description}</p>
 
                         <div className='lcr-buttonContainer'>
                             {headerData.resumePdf && (
